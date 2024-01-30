@@ -17,9 +17,12 @@ Here are some ideas to get you started:
 - ## Ferramentas e Técnologias quais tenho conhecimento
 
 - 
-            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" width="40" height="40"/>
             
-            <i class="devicon-html5-plain-wordmark colored"></i>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" width="40" height="40"/>
+  
+          
+          
           
           
 
