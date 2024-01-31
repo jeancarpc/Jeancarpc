@@ -44,5 +44,7 @@ Here are some ideas to get you started:
  </div>     
 
 
- ![Snake animation](https://github.com/jeancarpc/jeancarpc/blob/output/github-contribution-grid-snake.svg)
+ <divi>
+          ![Snake animation](https://github.com/jeancarpc/jeancarpc/blob/output/github-contribution-grid-snake.svg)
+ </divi>
 
