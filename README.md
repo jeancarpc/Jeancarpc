@@ -27,8 +27,12 @@
 </div>          
 <div>
    <h2>Estatísticas GitHub</h2>       
-   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeancarpc-aqui&layout=compact&langs_count=7&theme=dracula"/>
-   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=jeancarpc-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+   <a href="https://github.com/jeancarpc/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jeancarpc" />
+</a>
+<a href="https://github.com/jeancarpc/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeancarpc&layout=compact&langs_count=8&card_width=320" />
+</a>
 
  ![Snake animation](https://github.com/jeancarpc)/blob/output/github-contribution-grid-snake.svg)
  </div>     
