@@ -27,15 +27,26 @@
 </div>          
 <div>
    <h2>Estatísticas GitHub</h2>
-   <a href="https://github-readme-stats.vercel.app/api?username=jeancarpc&show_icons=true&theme=blue-green"/>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jeancarpc" />
-</a>
-<a href="https://github.com/jeancarpc/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeancarpc&layout=compact&langs_count=8&card_width=320" />
-</a>
 
- ![Snake animation](https://github.com/jeancarpc)/blob/output/github-contribution-grid-snake.svg)
- </div>     
+ <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=jeancarpc&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=jeancarpc&show_icons=true"
+    media="(prefers-color-scheme: dark), (prefers-color-scheme: dark)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=jeancarpc&show_icons=true" />
+</picture>
+</div>
+
+         
+   
+
+
+![Snake animation](https://github.com/jeancarpc/jeancarpc/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
