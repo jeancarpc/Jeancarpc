@@ -26,7 +26,8 @@
 <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>          
 <div>
-   <h2>Estatísticas GitHub</h2>       
+   <h2>Estatísticas GitHub</h2>
+   <a href="https://github-readme-stats.vercel.app/api?username=jeancarpc&show_icons=true&theme=dark"/>
    <a href="https://github.com/jeancarpc/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jeancarpc" />
 </a>
