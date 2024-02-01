@@ -30,7 +30,7 @@
    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeancarpc-aqui&layout=compact&langs_count=7&theme=dracula"/>
    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=jeancarpc-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
- ![Snake animation]([https://github.com/jeancarpc/jeancarpc](https://github.com/jeancarpc)/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/jeancarpc)/blob/output/github-contribution-grid-snake.svg)
  </div>     
 
 
