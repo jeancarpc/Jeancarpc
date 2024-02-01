@@ -27,8 +27,7 @@
 </div>          
 <div>
    <h2>Estatísticas GitHub</h2>
-   <a href="https://github-readme-stats.vercel.app/api?username=jeancarpc&show_icons=true&theme=dark"/>
-   <a href="https://github.com/jeancarpc/github-readme-stats">
+   <a href="https://github-readme-stats.vercel.app/api?username=jeancarpc&show_icons=true&theme=blue-green"/>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jeancarpc" />
 </a>
 <a href="https://github.com/jeancarpc/convoychat">
