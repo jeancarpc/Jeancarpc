@@ -40,7 +40,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=jeancarpc&show_icons=true" />
 </picture>
 </div>
- ![Snake animation](https://github.com/jeancarpc)/blob/output/github-contribution-grid-snake.svg
 
          
    
