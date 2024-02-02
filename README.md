@@ -41,7 +41,8 @@
 </picture>
 </div>
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-# Jeancarpc
+<div>
+         # Jeancarpc
 
 [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/platane/platane/main.yml?label=action&style=flat-square)](https://github.com/Platane/Platane/actions/workflows/main.yml)
 [![GitHub release](https://img.shields.io/github/release/platane/snk.svg?style=flat-square)](https://github.com/platane/snk/releases/latest)
@@ -65,6 +66,7 @@ Generates a snake game from a github user contributions graph
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
+</div>
 
 
          
